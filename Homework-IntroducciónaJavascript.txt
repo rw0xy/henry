@@ -1,0 +1,16 @@
+Variable = Una variable es una forma de almacenar valores en una computadora. En esa reserva se pueden almacenar datos que van a variar o se puden ir modificando a medida que se ejecute un programa. 
+
+
+Strings = Es un tipo de dato que que sirve para representar y maniuplar cadenas de caracteres. Los textos entre comillas son considerados strings.
+
+Funciones = Las funciones son un conjunto de procedimientos que realizan una tarea o calculan un valor. Para usar una función, antes se la debe definir para luego invocarla o llamarla. 
+
+Argumentos = Los argumentos son los valores que se le pasan a la función cuando esta es invocada. 
+
+Return =Return es una insturccióm que sale de una función y que devuelve el valor de la misma. 
+
+Declaraciones = Es el hecho de definir e informar al sistema de que vamos a utilizar una variable. 
+
+if = if es un condicional que sirve para tomar deciciones. Es una estructura de control que determinará la verdad de una expresión, para luego realizar una u otras operaciones según sea el resultado. 
+
+Valores booleanos = Los valores boolenaos es un tipo de datos que representan dos estados: verdadero o falso. 
